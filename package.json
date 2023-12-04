@@ -1,11 +1,11 @@
 {
-    "name": "DM-Unblocker",
-    "version": "1.0.0",
+    "name": "GreatSword-V3;SorrySecurly",
+    "version": "3.2.4",
     "repository": "https://github.com/dragon731012/DM-unbl0cker-3",
     "bugs": {
         "url": "https://github.com/dragon731012/DM-unbl0cker-3/issues"
     },
-    "description": "Bypass internet blockers",
+    "description": "Simple, Fast, and Great!",
     "main": "app.js",
     "scripts": {
         "start": "node app.js"
